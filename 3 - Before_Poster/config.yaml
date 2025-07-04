@@ -1,0 +1,17 @@
+names:
+- car-part-crack
+- detachment
+- flat-tire
+- glass-crack
+- lamp-crack
+- minor-deformation
+- moderate-deformation
+- paint-chips
+- scratches
+- severe-deformation
+- side-mirror-crack
+nc: 11
+
+test: ./data/test/images
+train: ./data/train/images
+val: ./data/valid/images
